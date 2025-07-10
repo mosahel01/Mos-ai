@@ -99,11 +99,17 @@ Visit `http://localhost:3000` and pretend you know what you're doing
 * React Documentation - For when you're really lost
 * TypeScript Handbook - For the brave
 
-### 🛠️ Tech Stack
-- https://img.shields.io/badge/-Next.js-000000?logo=next.js
-- https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript
-- https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css
-- https://img.shields.io/badge/-Vercel-000000?logo=vercel
+## 📚 Learning Resources
+- [Next.js Documentation](https://nextjs.org/docs) - The holy grail
+- [React Documentation](https://react.dev) - For when you're really lost
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/) - For the brave
+
+## 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
 🤝 Contributing
 
 ### Found a bug?
